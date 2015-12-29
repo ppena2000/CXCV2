@@ -1,0 +1,120 @@
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\obj\Release\ResolveAssemblyReference.cache
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.Resources.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.vbproj.GenerateResource.Cache
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.dll
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.xml
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.dll
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.pdb
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.xml
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\obj\Release\ResolveAssemblyReference.cache
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.Resources.resources
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.vbproj.GenerateResource.Cache
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.dll
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.xml
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.Resources.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.dll
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.xml
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.dll
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.dll
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.pdb
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.xml
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.pdb
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.xml
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\obj\Release\ResolveAssemblyReference.cache
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.Resources.resources
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.vbproj.GenerateResource.Cache
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.dll
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.xml
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.Resources.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\bin\Release\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.BL\obj\Release\CCR.AnalisisxCuidad.BL.pdb

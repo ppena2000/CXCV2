@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CCR.AnalisisxCuidad.BL
+</name>
+</assembly>
+<members>
+<member name="M:CCR.AnalisisxCuidad.BL.ZonaSujetaRevisionBL.ConsultaZonasSujetasRevision(System.Int32)">
+	<summary>
+ Recupera las zonas planificadas para su revision por Consistencia por Ciudad 
+ </summary>
+	<param name="periodoMesEstudio">Mes de estudio</param>
+	<returns>Lista de las zonas sujetas a revision</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

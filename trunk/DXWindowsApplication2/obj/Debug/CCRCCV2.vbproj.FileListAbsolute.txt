@@ -1,0 +1,480 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.FormPlantilla01.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.FormPrincipal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.SplashScreen1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.Form1.resources
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.Form1.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.Form1.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\bin\Debug\CCRCCV2.exe.config
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla01.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe.config
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla01.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\TRABAJOS\CC_PPM\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla01.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe.config
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla03.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla09.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla05.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla04.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla02.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla01.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla03.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSkuEstadistica.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe.config
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla10.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAcerca.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmDemo.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\RepositorioV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.ucEncuestaNegocios.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe.config
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSkuCanal.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku_old.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmDemo.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla10.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAcerca.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla09.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla05.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla04.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla02.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla01.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla03.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSkuEstadistica.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.ucEncuestaNegocios.resources
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\TRABAJOS\ccrccV2\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe.config
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSkuCanal.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku_old.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmDemo.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla10.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAcerca.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla09.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla05.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla04.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla02.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla01.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla03.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSkuEstadistica.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.ucEncuestaNegocios.resources
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\REPOSITORIO_WC\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSkuCanal.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku_old.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmDemo.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla10.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAcerca.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla09.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla05.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla04.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla02.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla01.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla03.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSkuEstadistica.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.ucEncuestaNegocios.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe.config
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe.config
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSkuCanal.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku_old.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmDemo.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla10.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAcerca.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla09.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla05.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla04.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla02.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla01.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla03.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSkuEstadistica.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.ucEncuestaNegocios.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe.config
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSkuCanal.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku_old.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmDemo.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla10.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAcerca.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla09.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla05.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla04.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla02.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla01.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla03.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSkuEstadistica.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.ucEncuestaNegocios.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe.config
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\bin\Debug\CCR.AnalisisxCuidad.BL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSkuCanal.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaSku_old.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmDemo.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla10.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAcerca.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla09.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla05.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla04.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla02.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmAvance.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla01.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantilla03.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaEnc.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPlantillaNeg.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPrincipal.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmRangos.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSkuEstadistica.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmSupervision.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.Splash.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.frmPanelControl.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.ucEncuestaNegocios.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses

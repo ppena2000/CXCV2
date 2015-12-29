@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dashboard CurrencyCulture="es-PE">
+  <DataConnections>
+    <DataConnection Name="nwindSalesPersonConnection" ProviderKey="InMemorySetFull" ConnectionString="XpoProvider=InMemoryDataStore;data source=C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\Data\nwindSalesPerson.xml;read only=True">
+      <Parameters>
+        <Parameter Name="database" Value="C:\TRABAJO\DEV\CCRCC\DXWindowsApplication2\Data\nwindSalesPerson.xml" />
+        <Parameter Name="read only" Value="1" />
+        <Parameter Name="generateConnectionHelper" Value="false" />
+      </Parameters>
+    </DataConnection>
+  </DataConnections>
+  <DataSources>
+    <DataSource Name="DataCC">
+      <DataProvider DataConnection="nwindSalesPersonConnection">
+        <Selection>
+          <Table Name="SalesPerson">
+            <Columns>
+              <Column Name="OrderID" />
+              <Column Name="Country" />
+              <Column Name="FirstName" />
+              <Column Name="LastName" />
+              <Column Name="ProductName" />
+              <Column Name="CategoryName" />
+              <Column Name="OrderDate" />
+              <Column Name="UnitPrice" />
+              <Column Name="Quantity" />
+              <Column Name="Discount" />
+              <Column Name="Extended Price" />
+              <Column Name="Sales Person" />
+            </Columns>
+          </Table>
+        </Selection>
+      </DataProvider>
+    </DataSource>
+  </DataSources>
+  <Items>
+    <Pie UniqueName="Tartas 1" DataSource="DataCC">
+      <DataItems>
+        <Dimension DataMember="SalesPerson.CategoryName" UniqueName="DataItem0" />
+        <Measure DataMember="SalesPerson.Quantity" UniqueName="DataItem1" />
+      </DataItems>
+      <Arguments>
+        <Argument UniqueName="DataItem0" />
+      </Arguments>
+      <Values>
+        <Value UniqueName="DataItem1" />
+      </Values>
+    </Pie>
+    <Grid UniqueName="Rejilla 1" DataSource="DataCC">
+      <DataItems>
+        <Dimension DataMember="SalesPerson.Sales Person" UniqueName="DataItem0" />
+        <Dimension DataMember="SalesPerson.FirstName" UniqueName="DataItem1" />
+        <Measure DataMember="SalesPerson.OrderID" UniqueName="DataItem2" />
+        <Measure DataMember="SalesPerson.Quantity" UniqueName="DataItem3" />
+        <Measure DataMember="SalesPerson.Discount" UniqueName="DataItem4" />
+        <Measure DataMember="SalesPerson.UnitPrice" UniqueName="DataItem5" />
+      </DataItems>
+      <GridColumns>
+        <GridDimensionColumn>
+          <Dimension UniqueName="DataItem0" />
+        </GridDimensionColumn>
+        <GridDimensionColumn>
+          <Dimension UniqueName="DataItem1" />
+        </GridDimensionColumn>
+        <GridMeasureColumn>
+          <Measure UniqueName="DataItem2" />
+        </GridMeasureColumn>
+        <GridMeasureColumn>
+          <Measure UniqueName="DataItem3" />
+        </GridMeasureColumn>
+        <GridMeasureColumn>
+          <Measure UniqueName="DataItem4" />
+        </GridMeasureColumn>
+        <GridMeasureColumn>
+          <Measure UniqueName="DataItem5" />
+        </GridMeasureColumn>
+      </GridColumns>
+      <GridOptions ShowHorizontalLines="true" ShowVerticalLines="true" />
+    </Grid>
+    <Card UniqueName="Fichas 1" DataSource="DataCC">
+      <DataItems>
+        <Measure DataMember="SalesPerson.Discount" UniqueName="DataItem0" />
+        <Measure DataMember="SalesPerson.UnitPrice" UniqueName="DataItem1" />
+        <Measure DataMember="SalesPerson.OrderID" UniqueName="DataItem2" />
+        <Measure DataMember="SalesPerson.Quantity" UniqueName="DataItem3" />
+        <Measure DataMember="SalesPerson.Country" SummaryType="Count" UniqueName="DataItem4" />
+        <Measure DataMember="SalesPerson.Discount" UniqueName="DataItem5" />
+      </DataItems>
+      <Card>
+        <ActualValue UniqueName="DataItem0" />
+        <TargetValue UniqueName="DataItem1" />
+        <DeltaOptions />
+      </Card>
+      <Card>
+        <ActualValue UniqueName="DataItem2" />
+        <TargetValue UniqueName="DataItem3" />
+        <DeltaOptions />
+      </Card>
+      <Card>
+        <ActualValue UniqueName="DataItem4" />
+        <TargetValue UniqueName="DataItem5" />
+        <DeltaOptions />
+      </Card>
+    </Card>
+    <Pivot UniqueName="Cubo 1" DataSource="DataCC">
+      <DataItems>
+        <Dimension DataMember="SalesPerson.Country" UniqueName="DataItem0" />
+        <Dimension DataMember="SalesPerson.FirstName" UniqueName="DataItem1" />
+        <Dimension DataMember="SalesPerson.CategoryName" UniqueName="DataItem2" />
+        <Measure DataMember="SalesPerson.Quantity" UniqueName="DataItem3" />
+      </DataItems>
+      <Columns>
+        <Column UniqueName="DataItem2" />
+      </Columns>
+      <Rows>
+        <Row UniqueName="DataItem0" />
+        <Row UniqueName="DataItem1" />
+      </Rows>
+      <Values>
+        <Value UniqueName="DataItem3" />
+      </Values>
+    </Pivot>
+  </Items>
+  <Layout>
+    <LayoutItem Name="Tartas 1" Left="0" Top="0" Right="0.24956822107081175" Bottom="0.49936948297604034" />
+    <LayoutItem Name="Rejilla 1" Left="0.5" Top="0" Right="1" Bottom="0.49936948297604034" />
+    <LayoutItem Name="Fichas 1" Left="0" Top="0.49936948297604034" Right="1" Bottom="1" />
+    <LayoutItem Name="Cubo 1" Left="0.24956822107081175" Top="0" Right="0.5" Bottom="0.49936948297604034" />
+  </Layout>
+</Dashboard>

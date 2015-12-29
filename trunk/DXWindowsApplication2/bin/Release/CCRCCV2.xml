@@ -1,0 +1,148 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CCRCCV2
+</name>
+</assembly>
+<members>
+<member name="T:CCRCCV2.BDPECCRCCDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet1TableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:CCRCCV2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:CCRCCV2.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:CCRCCV2.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.XXXPCCRCC_DatosPantillaRES01DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.vCCRCC_GrillaPrincipalPlantilla01DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.vCCRCC_GrillaSecundariaPlantilla01DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.XXXPCCRCC_Indicadores_SelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.XXXPCCRCC_PCCategorias_SelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.XXXPCCRCC_DatosPantillaRES01Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.vCCRCC_GrillaPrincipalPlantilla01Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.vCCRCC_GrillaSecundariaPlantilla01Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.XXXPCCRCC_Indicadores_SelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.XXXPCCRCC_PCCategorias_SelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.XXXPCCRCC_DatosPantillaRES01RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.vCCRCC_GrillaPrincipalPlantilla01RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.vCCRCC_GrillaSecundariaPlantilla01RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.XXXPCCRCC_Indicadores_SelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet.XXXPCCRCC_PCCategorias_SelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSetTableAdapters.XXXPCCRCC_DatosPantillaRES01TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSetTableAdapters.vCCRCC_GrillaPrincipalPlantilla01TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSetTableAdapters.vCCRCC_GrillaSecundariaPlantilla01TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSetTableAdapters.XXXPCCRCC_Indicadores_SelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSetTableAdapters.XXXPCCRCC_PCCategorias_SelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CCRCCV2.BDPECCRCCDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CCRCCV2.BDPECCRCCDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CCRCCV2.BDPECCRCCDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CCRCCV2.BDPECCRCCDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CCRCCV2.BDPECCRCCDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CCRCCV2.BDPECCRCCDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CCRCCV2.BDPECCRCCDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CCRCCV2.BDPECCRCCDataSetTableAdapters.TableAdapterManager.UpdateAll(CCRCCV2.BDPECCRCCDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CCRCCV2.BDPECCRCCDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

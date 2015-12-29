@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.FormPlantilla01.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.FormPrincipal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\DXWindowsApplication2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.exe.licenses
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCRCCV2.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCRCCV2.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Debug\CCRCCV2.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Debug\CCRCCV2.SplashScreen1.resources

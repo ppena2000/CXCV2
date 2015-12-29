@@ -1,0 +1,150 @@
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Visual Studio 2008\Projects\CCR.AnalisisxCuidad\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.Resources.resources
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.vbproj.GenerateResource.Cache
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJO\CCR\CC\DEV\CCRCCV1\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.Resources.resources
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.vbproj.GenerateResource.Cache
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJOS\CC_PPM\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys-AnalisisxCuidad\Repositorio\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.Resources.resources
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.vbproj.GenerateResource.Cache
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\TRABAJOS\ccrccV2\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.Resources.resources
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.vbproj.GenerateResource.Cache
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\REPOSITORIO_WC\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.Resources.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.Resources.resources
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Desktop\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\trunk 20150921\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.BE.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.pdb
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\bin\Debug\CCR.AnalisisxCuidad.Support.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.Resources.resources
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.vbproj.GenerateResource.Cache
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.dll
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.xml
+C:\Users\lnores.CCRLATAM\Documents\Lnores\CCR\Proyectos\CCRSys V 10.12\trunk\CCR.AnalisisxCuidad.DAL\obj\Debug\CCR.AnalisisxCuidad.DAL.pdb

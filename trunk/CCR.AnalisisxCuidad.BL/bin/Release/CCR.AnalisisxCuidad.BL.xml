@@ -1,0 +1,77 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CCR.AnalisisxCuidad.BL
+</name>
+</assembly>
+<members>
+<member name="M:CCR.AnalisisxCuidad.BL.ZonaSujetaRevisionBL.ConsultaZonasSujetasRevision(System.Int32)">
+	<summary>
+ Recupera las zonas planificadas para su revision por Consistencia por Ciudad 
+ </summary>
+	<param name="periodoMesEstudio">Mes de estudio</param>
+	<returns>Lista de las zonas sujetas a revision</returns>
+	<remarks></remarks>
+</member><member name="M:CCR.AnalisisxCuidad.BL.ZonaSujetaRevisionBL.ActualizaAvanceUsuario(System.Int32,System.Int32,System.Int16)">
+	<summary>
+ Actualiza el avance de los usuarios
+ </summary>
+	<param name="periodoMesEstudio">Mes de estudio</param>
+	<param name="idTCCRCC_Avance">Id del registro de la cuidad a donde va a ser asignado el usuario</param>
+	<param name="codigoUsuario">Código del usuario que va a ser asignado a una determinada cuidad</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CCR.AnalisisxCuidad.BL.ZonaSujetaRevisionBL.ObtenerUltimasTresMediciones">
+	<summary>
+ Devuelve las ultimas tres mediciones. La medicion activa tiene el parametro de Estado = 1
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CCR.AnalisisxCuidad.BL.ZonaSujetaRevisionBL.ObtenerUsuarioConsistencia">
+	<summary>
+ Devuelve la lista de usuarios que pueden ser asignados a las cuidades
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CCR.AnalisisxCuidad.BL.ZonaSujetaRevisionBL.ActualizaFechaObjetivo(System.Int32,System.DateTime)">
+	<summary>
+ Actualiza la fecha Meta de los usuarios seleccionados
+ </summary>
+	<param name="idMedicionZona"></param>
+	<param name="fechaUsuario"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CCR.AnalisisxCuidad.BL.PlantillasBL.CambiaEstado(System.String,System.Int16)">
+	<summary>
+ Modifica el estado de la encuesta. Se esta tomando en cuenta que los estados van a ser los siguientes
+ 0: Atipico
+ 1: Activar Encuesta
+ 2: No Procesa
+ </summary>
+	<param name="lsidEncuestaCategoriaSku"></param>
+	<param name="estado"></param>
+	<remarks></remarks>
+</member><member name="M:CCR.AnalisisxCuidad.BL.PlantillasBL.ActualizaEncuestaTemporal(CCR.AnalisisxCuidad.BE.EncuestaXML)">
+	<summary>
+ Actualiza los valores de la encuesta seleccionada. Los valores que son tomados para actualizar son 
+ @IdTemporal int, @P0_IAntFac int, @P0_CM1Fac int,  @P0_CM2Fac int, @P0_INVFac int,
+ @P0_PREFac int,@Comentarios varchar(100)
+ </summary>
+	<param name="encuesta"></param>
+	<remarks></remarks>
+</member><member name="M:CCR.AnalisisxCuidad.BL.PlantillasBL.VaciarEncuestaEditada">
+	<summary>
+ Elimina la encuesta de trabajo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CCR.AnalisisxCuidad.BL.PlantillasBL.ObtenerUltimaMedicion(System.Object)">
+	<summary>
+ Devuelve el valor de la ultima medición
+ </summary>
+	<param name="idMedicionZona"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B3BEB34B-FA8C-4DF1-BAE1-281B57C85261}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CCRCCV2.My.MyApplication</StartupObject>
+    <RootNamespace>CCRCCV2</RootNamespace>
+    <AssemblyName>CCRCCV2</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>CC-Icono-72.ico</ApplicationIcon>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <PublishUrl>C:\CCRCC_Install\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CCRCCV2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CCRCCV2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v12.2.Core, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dashboard.v12.2.Core, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Office.v12.2.Core, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v12.2.Core, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v12.2.Core, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v12.2.Core, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.Extensions, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.UI, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.Web, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.Wizard, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraDashboard.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v12.2.Core, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v12.2.Presets, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v12.2.Win, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v12.2.Extensions, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2.Core, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2.Extensions, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2.iCalendarExchange, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2.OutlookExchange, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2.Reporting, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2.Reporting.Extensions, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2.VCalendarExchange, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraWizard.v12.2, Version=12.2.18.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="BDPECCRCCDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDPECCRCCDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BDPECCRCCDataSet.vb">
+      <DependentUpon>BDPECCRCCDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BDPECCRCCDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDPECCRCCDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CCGlobales.vb" />
+    <Compile Include="frmPlantillaSkuCanal.Designer.vb">
+      <DependentUpon>frmPlantillaSkuCanal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantillaSkuCanal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantillaSku.Designer.vb">
+      <DependentUpon>frmPlantillaSku.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantillaSku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantillaSku_old.Designer.vb">
+      <DependentUpon>frmPlantillaSku_old.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantillaSku_old.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDemo.Designer.vb">
+      <DependentUpon>frmDemo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDemo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantilla10.Designer.vb">
+      <DependentUpon>frmPlantilla10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantilla10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcerca.Designer.vb">
+      <DependentUpon>frmAcerca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAcerca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantilla09.Designer.vb">
+      <DependentUpon>frmPlantilla09.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantilla09.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantilla05.Designer.vb">
+      <DependentUpon>frmPlantilla05.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantilla05.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantilla04.Designer.vb">
+      <DependentUpon>frmPlantilla04.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantilla04.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantilla02.Designer.vb">
+      <DependentUpon>frmPlantilla02.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantilla02.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantilla01.Designer.vb">
+      <DependentUpon>frmPlantilla01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantilla01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantilla03.Designer.vb">
+      <DependentUpon>frmPlantilla03.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantilla03.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantillaNeg.Designer.vb">
+      <DependentUpon>frmPlantillaNeg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantillaNeg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSkuEstadistica.Designer.vb">
+      <DependentUpon>frmSkuEstadistica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSkuEstadistica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Splash.Designer.vb">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRangos.Designer.vb">
+      <DependentUpon>frmRangos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRangos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupervision.Designer.vb">
+      <DependentUpon>frmSupervision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupervision.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantillaEnc.Designer.vb">
+      <DependentUpon>frmPlantillaEnc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantillaEnc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAvance.Designer.vb">
+      <DependentUpon>frmAvance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAvance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPanelControl.Designer.vb">
+      <DependentUpon>frmPanelControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPanelControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ucEncuestaNegocios.Designer.vb">
+      <DependentUpon>ucEncuestaNegocios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucEncuestaNegocios.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmPlantillaSkuCanal.resx">
+      <DependentUpon>frmPlantillaSkuCanal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantillaSku.resx">
+      <DependentUpon>frmPlantillaSku.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantillaSku_old.resx">
+      <DependentUpon>frmPlantillaSku_old.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDemo.resx">
+      <DependentUpon>frmDemo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantilla10.resx">
+      <DependentUpon>frmPlantilla10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAcerca.resx">
+      <DependentUpon>frmAcerca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantilla09.resx">
+      <DependentUpon>frmPlantilla09.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantilla05.resx">
+      <DependentUpon>frmPlantilla05.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantilla04.resx">
+      <DependentUpon>frmPlantilla04.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantilla02.resx">
+      <DependentUpon>frmPlantilla02.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAvance.resx">
+      <DependentUpon>frmAvance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantilla01.resx">
+      <DependentUpon>frmPlantilla01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantilla03.resx">
+      <DependentUpon>frmPlantilla03.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantillaEnc.resx">
+      <DependentUpon>frmPlantillaEnc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantillaNeg.resx">
+      <DependentUpon>frmPlantillaNeg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRangos.resx">
+      <DependentUpon>frmRangos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkuEstadistica.resx">
+      <DependentUpon>frmSkuEstadistica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupervision.resx">
+      <DependentUpon>frmSupervision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPanelControl.resx">
+      <DependentUpon>frmPanelControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEncuestaNegocios.resx">
+      <DependentUpon>ucEncuestaNegocios.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="BDPECCRCCDataSet.xsc">
+      <DependentUpon>BDPECCRCCDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BDPECCRCCDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDPECCRCCDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BDPECCRCCDataSet.xss">
+      <DependentUpon>BDPECCRCCDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BDPECCRCCDataSet1.xsc">
+      <DependentUpon>BDPECCRCCDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BDPECCRCCDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDPECCRCCDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BDPECCRCCDataSet1.xss">
+      <DependentUpon>BDPECCRCCDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CC-Icono-72.ico" />
+    <Content Include="Images16\avances.png" />
+    <Content Include="Images16\icos_01_real.png" />
+    <Content Include="Images16\icos_02_analizado.png" />
+    <Content Include="Images16\icos_03_vacio.png" />
+    <Content Include="Images16\icos_04_vacio.png" />
+    <Content Include="Images16\icos_05_vacio.png" />
+    <Content Include="Images16\icos_06_vacio.png" />
+    <Content Include="Images16\icos_07_semaforo.png" />
+    <Content Include="Images16\icos_08_variaciones.png" />
+    <Content Include="Images16\icos_09_sku.png" />
+    <Content Include="Images16\icos_10_frecuencia.png" />
+    <Content Include="Images16\icos_11_marcaparasupervision.png" />
+    <Content Include="Images16\icos_12_resumendemarcas.png" />
+    <Content Include="Images16\icos_13_supervicionesporvalidar.png" />
+    <Content Include="Images16\icos_14_estadistica.png" />
+    <Content Include="Images16\icos_15_propiedades.png" />
+    <Content Include="Images16\icos_16_replicarencuesta.png" />
+    <Content Include="Images16\icos_17_encuestapromedio.png" />
+    <Content Include="Images16\icos_18_skuconpromedio.png" />
+    <Content Include="Images16\icos_19_cancelaractualizar.png" />
+    <Content Include="Images16\icos_20_datos.png" />
+    <Content Include="Images16\icos_21_campo.png" />
+    <Content Include="Images16\icos_22_supervicion.png" />
+    <Content Include="Images16\icos_23_ajustado.png" />
+    <Content Include="Images16\icos_24_todos.png" />
+    <Content Include="Images16\icos_25_alertas.png" />
+    <Content Include="Images16\icos_26_ok.png" />
+    <Content Include="Images16\icos_27_todos.png" />
+    <Content Include="Images16\icos_28_gestionderangos.png" />
+    <Content Include="Images16\icos_29_exel.png" />
+    <Content Include="Images16\icos_30_pdf.png" />
+    <Content Include="Images16\icos_31_csv.png" />
+    <Content Include="Images16\icos_32_xml.png" />
+    <Content Include="Images16\icos_33_vacio.png" />
+    <Content Include="Images16\icos_34.png" />
+    <Content Include="Images16\icos_35_vistaprevia.png" />
+    <Content Include="Images16\icos_36_imprimir.png" />
+    <Content Include="Images16\icos_37_paneldecontro.png" />
+    <Content Include="Images16\icos_38_controldeavance.png" />
+    <Content Include="Images16\icos_39_refresca.png" />
+    <Content Include="Images16\icos_40_grabar.png" />
+    <Content Include="Images16\icos_41_salir.png" />
+    <Content Include="Images16\icos_42_AcercaDe.png" />
+    <Content Include="Images16\icos_43.png" />
+    <Content Include="Images16\icos_44.png" />
+    <Content Include="Images16\icos_45.png" />
+    <Content Include="Images16\icos_46.png" />
+    <Content Include="Images16\icos_47.png" />
+    <Content Include="Images16\icos_48.png" />
+    <Content Include="Images16\icos_49.png" />
+    <Content Include="Images16\icos_50_usuario.png" />
+    <Content Include="Images32\avances.png" />
+    <Content Include="Images32\icol_01_real.png" />
+    <Content Include="Images32\icol_02_analizado.png" />
+    <Content Include="Images32\icol_03_vacio.png" />
+    <Content Include="Images32\icol_04_vacio.png" />
+    <Content Include="Images32\icol_05_vacio.png" />
+    <Content Include="Images32\icol_06_vacio.png" />
+    <Content Include="Images32\icol_07_semaforo.png" />
+    <Content Include="Images32\icol_08_variaciones.png" />
+    <Content Include="Images32\icol_09_sku.png" />
+    <Content Include="Images32\icol_10_frecuencia.png" />
+    <Content Include="Images32\icol_11_marcaparasupervision.png" />
+    <Content Include="Images32\icol_12_resumendemarcas.png" />
+    <Content Include="Images32\icol_13_supervicionesporvalidar.png" />
+    <Content Include="Images32\icol_14_estadistica.png" />
+    <Content Include="Images32\icol_15_propiedades.png" />
+    <Content Include="Images32\icol_16_replicarencuesta.png" />
+    <Content Include="Images32\icol_17_encuestapromedio.png" />
+    <Content Include="Images32\icol_18_skuconpromedio.png" />
+    <Content Include="Images32\icol_19_cancelaractualizar.png" />
+    <Content Include="Images32\icol_20_datos.png" />
+    <Content Include="Images32\icol_21_campo.png" />
+    <Content Include="Images32\icol_22_supervicion.png" />
+    <Content Include="Images32\icol_23_ajustado.png" />
+    <Content Include="Images32\icol_24_todos.png" />
+    <Content Include="Images32\icol_25_alertas.png" />
+    <Content Include="Images32\icol_26_ok.png" />
+    <Content Include="Images32\icol_27_todos.png" />
+    <Content Include="Images32\icol_28_gestionderangos.png" />
+    <Content Include="Images32\icol_29_exel.png" />
+    <Content Include="Images32\icol_30_pdf.png" />
+    <Content Include="Images32\icol_31_csv.png" />
+    <Content Include="Images32\icol_32_xml.png" />
+    <Content Include="Images32\icol_33_vacio.png" />
+    <Content Include="Images32\icol_34_vacio.png" />
+    <Content Include="Images32\icol_35_vistaprevia.png" />
+    <Content Include="Images32\icol_36_imprimir.png" />
+    <Content Include="Images32\icol_37_paneldecontrol.png" />
+    <Content Include="Images32\icol_38_controldeavance.png" />
+    <Content Include="Images32\icol_39_refresca.png" />
+    <Content Include="Images32\icol_40_grabar.png" />
+    <Content Include="Images32\icol_41_salir.png" />
+    <Content Include="Images32\icol_42_AcercaDe.png" />
+    <Content Include="Images32\icol_43.png" />
+    <Content Include="Images32\icol_44.png" />
+    <Content Include="Images32\icol_45.png" />
+    <Content Include="Images32\icol_46.png" />
+    <Content Include="Images32\icol_47.png" />
+    <Content Include="Images32\icol_48.png" />
+    <Content Include="Images32\icol_49.png" />
+    <Content Include="Images32\icol_50.png" />
+    <Content Include="ImagesOthers\CC-Icono-72.ico" />
+    <Content Include="ImagesOthers\CC-Icono-72.png" />
+    <Content Include="ImagesOthers\CC-Icono.png" />
+    <Content Include="ImagesOthers\CCRCC Splash.png" />
+    <None Include="ImagesOthers\Close_32x32.png" />
+    <None Include="ImagesOthers\icol_57_alerta.png" />
+    <None Include="ImagesOthers\icol_58_ok.png" />
+    <None Include="ImagesOthers\icos_57_alerta.png" />
+    <None Include="ImagesOthers\icos_58_ok.png" />
+    <None Include="ImagesOthers\icos_57_alerta - copia.png" />
+    <Content Include="ImagesOthers\ico_gestionderangos.ico" />
+    <Content Include="ImagesOthers\LayoutFlip_16x16.png" />
+    <Content Include="ImagesOthers\LayoutFlip_32x32.png" />
+    <Content Include="ImagesOthers\NextWeek_Flag.png" />
+    <None Include="ImagesOthers\Save_32x32.png" />
+    <None Include="My Project\app.manifest" />
+    <None Include="ImagesOthers\process.gif" />
+    <Content Include="ImagesOthers\sem_err.png" />
+    <Content Include="ImagesOthers\sem_ok.png" />
+    <Content Include="ImagesOthers\Today_Flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CCR.AnalisisxCuidad.BE\CCR.AnalisisxCuidad.BE.vbproj">
+      <Project>{51CCF70C-4763-47B1-A83C-B2DD204044A5}</Project>
+      <Name>CCR.AnalisisxCuidad.BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CCR.AnalisisxCuidad.BL\CCR.AnalisisxCuidad.BL.vbproj">
+      <Project>{40C295B9-6F03-4C5D-B915-2EF781792ABC}</Project>
+      <Name>CCR.AnalisisxCuidad.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CCR.AnalisisxCuidad.Support\CCR.AnalisisxCuidad.Support.vbproj">
+      <Project>{A4E44703-AAB3-4ED4-979E-6918CA71DB45}</Project>
+      <Name>CCR.AnalisisxCuidad.Support</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

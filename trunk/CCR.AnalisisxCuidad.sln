@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CCR.AnalisisxCuidad.DAL", "CCR.AnalisisxCuidad.DAL\CCR.AnalisisxCuidad.DAL.vbproj", "{07FB8C66-059A-4CBC-BB03-51EA9B851C41}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CCR.AnalisisxCuidad.BE", "CCR.AnalisisxCuidad.BE\CCR.AnalisisxCuidad.BE.vbproj", "{51CCF70C-4763-47B1-A83C-B2DD204044A5}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CCR.AnalisisxCuidad.BL", "CCR.AnalisisxCuidad.BL\CCR.AnalisisxCuidad.BL.vbproj", "{40C295B9-6F03-4C5D-B915-2EF781792ABC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CCR.AnalisisxCuidad.Support", "CCR.AnalisisxCuidad.Support\CCR.AnalisisxCuidad.Support.vbproj", "{A4E44703-AAB3-4ED4-979E-6918CA71DB45}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CCRCCV2", "DXWindowsApplication2\CCRCCV2.vbproj", "{B3BEB34B-FA8C-4DF1-BAE1-281B57C85261}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CCR.AnalisisxCuidad.Instalador", "CCR.AnalisisxCuidad.Instalador\CCR.AnalisisxCuidad.Instalador.vdproj", "{3904941D-C8D8-4502-93E1-D1E57B9CACA2}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FB8C66-059A-4CBC-BB03-51EA9B851C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FB8C66-059A-4CBC-BB03-51EA9B851C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FB8C66-059A-4CBC-BB03-51EA9B851C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FB8C66-059A-4CBC-BB03-51EA9B851C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CCF70C-4763-47B1-A83C-B2DD204044A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CCF70C-4763-47B1-A83C-B2DD204044A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CCF70C-4763-47B1-A83C-B2DD204044A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CCF70C-4763-47B1-A83C-B2DD204044A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C295B9-6F03-4C5D-B915-2EF781792ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C295B9-6F03-4C5D-B915-2EF781792ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C295B9-6F03-4C5D-B915-2EF781792ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C295B9-6F03-4C5D-B915-2EF781792ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E44703-AAB3-4ED4-979E-6918CA71DB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E44703-AAB3-4ED4-979E-6918CA71DB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E44703-AAB3-4ED4-979E-6918CA71DB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E44703-AAB3-4ED4-979E-6918CA71DB45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3BEB34B-FA8C-4DF1-BAE1-281B57C85261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BEB34B-FA8C-4DF1-BAE1-281B57C85261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BEB34B-FA8C-4DF1-BAE1-281B57C85261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BEB34B-FA8C-4DF1-BAE1-281B57C85261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3904941D-C8D8-4502-93E1-D1E57B9CACA2}.Debug|Any CPU.ActiveCfg = Debug
+		{3904941D-C8D8-4502-93E1-D1E57B9CACA2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

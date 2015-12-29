@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Release\DXWindowsApplication2.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Release\DXWindowsApplication2.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\bin\Release\DXWindowsApplication2.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Release\DXWindowsApplication2.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Release\DXWindowsApplication2.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Release\DXWindowsApplication2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Release\DXWindowsApplication2.exe.licenses
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Release\DXWindowsApplication2.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Release\DXWindowsApplication2.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\DXWindowsApplication2\obj\Release\DXWindowsApplication2.pdb
