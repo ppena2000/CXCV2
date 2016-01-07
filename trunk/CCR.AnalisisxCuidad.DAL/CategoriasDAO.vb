@@ -5,6 +5,12 @@ Public Class CategoriasDAO : Inherits ConnectionHelper
     Public Sub New()
     End Sub
 
+    ''' <summary>
+    ''' Lista la categorias
+    ''' </summary>
+    ''' <param name="idMedicionZona"></param>
+    ''' <returns></returns>
+    ''' <remarks></remarks>
     Public Function ListarCategorias(ByVal idMedicionZona As Integer) As IList(Of Categorias)
         Dim cmd As SqlCommand
         Dim reader As SqlDataReader
